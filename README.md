@@ -71,4 +71,5 @@ included in the tutorial materials.
 
 You will also need:
 
-https://dl.dropboxusercontent.com/u/5743203/data/titanic/titanic_train.csv
+https://dl.dropboxusercontent.com/u/2140486/data/titanic_train.csv
+https://dl.dropboxusercontent.com/u/2140486/data/adult_train.csv
