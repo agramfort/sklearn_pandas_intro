@@ -27,10 +27,7 @@ painless way to install all the requirements is to use a package such as
 [Anaconda](http://continuum.io/downloads), which can be downloaded and
 installed for free.
 
-Please download in advance the Olivetti dataset using:
-
-    from sklearn import datasets
-    datasets.fetch_olivetti_faces()
+Please download in advance the datasets mentionned in [Data Downloads](#data-downloads)
 
 
 ### With the IPython/jupyter notebook
@@ -71,5 +68,5 @@ included in the tutorial materials.
 
 You will also need:
 
-https://dl.dropboxusercontent.com/u/2140486/data/titanic_train.csv
+https://dl.dropboxusercontent.com/u/2140486/data/titanic_train.csv  
 https://dl.dropboxusercontent.com/u/2140486/data/adult_train.csv
